@@ -1,0 +1,12 @@
+Parameter,Value
+Experiment,Experiment 1
+Dataset,Raw HAM10000
+Model,Dual-Backbone Fusion
+Backbone 1,EfficientNetV2B0
+Backbone 2,DenseNet121
+Image Size,224 x 224
+Batch Size,32
+Epochs,20
+Optimizer,Adam
+Learning Rate,0.0001
+Loss Function,Categorical Crossentropy
