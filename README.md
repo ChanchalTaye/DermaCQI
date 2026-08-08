@@ -282,7 +282,7 @@ If you find this work useful in your research or clinical applications, please c
 ```bibtex
 @article{DermaCQI2026,
   title={DermaCQI: Composite Quality Index and Adaptive Enhancement Framework for Dermoscopic Skin Lesion Diagnosis},
-  author={DermaCQI Team},
+  author={Chanchal Taye},
   journal={Dermatological AI & Computer Vision},
   year={2026}
 }
